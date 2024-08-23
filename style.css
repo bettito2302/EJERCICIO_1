@@ -1,0 +1,129 @@
+.cabezera{
+    color:rgb(38, 3, 92);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: center;
+    background-color: rgb(33, 129, 198);
+    padding: 25px;
+
+}
+.contenedor{
+    display: flex;
+}
+.izquierda{
+    flex:1;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(33, 4, 83);
+    padding: 25px;
+}
+.centroa{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(180, 34, 104);
+    padding: 25px;
+}
+.centro{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(137, 148, 79);
+    padding: 25px;
+}
+.derecha{
+    flex:4;
+    color:rgb(130, 4, 4);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: right;
+    background-color: rgb(213, 219, 181);
+    padding: 25px;
+}
+.izquierdaabajo{
+    flex:1;
+    color:rgb(170, 223, 231);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(202, 11, 11);
+    padding: 25px;
+}
+.centroabajo{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(101, 142, 189);
+    padding: 25px;
+}
+.centroabajoa{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(66, 88, 124);
+    padding: 25px;
+}
+.derechaabajo{
+    flex:1;
+    color:rgb(244, 9, 9);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: center;
+    background-color: rgb(246, 247, 242);
+    padding: 25px;
+}
+.izquierdaabajob{
+    flex:1;
+    color:rgb(93, 166, 218);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(35, 19, 157);
+    padding: 25px;
+}
+.centroabajoab{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(230, 166, 47);
+    padding: 25px;
+}
+.centroabajob{
+    flex:2;
+    color:rgb(238, 235, 242);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60;
+    text-align: center;
+    background-color: rgb(167, 31, 105);
+    padding: 25px;
+}
+.derechaabajob{
+    flex:1;
+    color:rgb(205, 156, 32);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: center;
+    background-color: rgb(221, 234, 170);
+    padding: 25px;
+}
+.derechaabajofinal{
+    flex:1;
+    color:rgb(12, 9, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: left;
+    background-color: rgb(167, 87, 21);
+    padding: 25px;
+}
